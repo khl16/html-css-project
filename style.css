@@ -1,0 +1,87 @@
+
+body{
+    background-color: antiquewhite;
+}
+
+hr.hr1{
+    border-top: 4px dotted rgb(0, 0, 0);
+}
+hr.hr2{
+    border-top: 4px dotted rgb(0, 0, 0);
+
+}
+
+table.tab1 {
+    border:1px solid black;
+ 
+    
+  }
+  th.th1{
+    border:1px solid black;
+    height: 10px; 
+    text-align: center;
+    width:90%
+
+ 
+  }
+  td.td1{
+    border:1px solid black;
+    height: 10px;
+    text-align: center;  
+    width:90%
+
+  }
+
+ 
+ 
+ 
+  table.tab2{
+    border:1px solid black;
+  
+    
+
+  }
+
+  th.th11{
+
+    border:1px solid black;
+     width: 60%;
+     text-align: left;
+
+  }
+
+  th.th22{
+
+    border:1px solid black;
+    width: 60%;
+    text-align: left;
+    
+}
+
+button {
+    background-color: #f54e01; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ 
+   
+  
+     
+  }
+
+  body.body2{
+
+    background-color: #f54e01;
+  }
+
+  form{
+
+
+      
+  }
+
+
